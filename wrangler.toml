@@ -8,4 +8,4 @@ compatibility_flags = [ "nodejs_compat" ]
 enabled = true
 [[kv_namespaces]]
 binding = "KV"
-id = "f17afbb7db964d5cb890ab869c6660ee"
+id = "17942680143e41d584afc6c2209cfcbf"
