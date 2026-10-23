@@ -103,6 +103,8 @@ Media
             └── S02E02.mp4
 ```
 
+
+
 **Tips:**
 - Series episodes must include the `SXXEXX` pattern (e.g., `S01E02`) at the end of the filename.
 - Files and folders without IDs `[IMDBID]` will only show on the Addon catalogs, and won't have posters or metadata.
